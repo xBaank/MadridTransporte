@@ -1,6 +1,6 @@
 ---
 name: Reporte de error
-description: Crea un reporte para ayudarnos a mejorar
+about: Crea un reporte para ayudarnos a mejorar
 title: ''
 labels: ''
 assignees: ''
