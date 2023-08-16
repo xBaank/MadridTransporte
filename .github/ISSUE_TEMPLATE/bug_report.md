@@ -1,9 +1,9 @@
 ---
-nombre: Reporte de error
-acerca de: Crea un reporte para ayudarnos a mejorar
-título: ''
-etiquetas: ''
-asignados: ''
+name: Reporte de error
+description: Crea un reporte para ayudarnos a mejorar
+title: ''
+labels: ''
+assignees: ''
 
 ---
 
