@@ -9,7 +9,7 @@ Simplemente introduce el nombre de la parada o su correspondiente codigo en el b
 
 ![Buscador](./.assets/buscar.png)
 
-Clicka en la parada que necesites y veras los tiempos de las lineas que pasan por esa parada.
+Haz click en la parada que necesites y veras los tiempos de las lineas que pasan por esa parada.
 
 ![Tiempos](./.assets/tiempos.png)
 
