@@ -2,6 +2,12 @@
 
 # MadridTransporte
 
+[![xBaank - MadridTransporte](https://img.shields.io/static/v1?label=xBaank&message=MadridTransporte&color=blue&logo=github)](https://github.com/xBaank/MadridTransporte "Go to GitHub repo")
+[![stars - MadridTransporte](https://img.shields.io/github/stars/xBaank/MadridTransporte?style=social)](https://github.com/xBaank/MadridTransporte)
+[![forks - MadridTransporte](https://img.shields.io/github/forks/xBaank/MadridTransporte?style=social)](https://github.com/xBaank/MadridTransporte)
+[![License](https://img.shields.io/badge/License-GPL-blue)](#license)
+[![issues - MadridTransporte](https://img.shields.io/github/issues/xBaank/MadridTransporte)](https://github.com/xBaank/MadridTransporte/issues)
+
 
 [![Sample screenshot](https://www.madridtransporte.com/favicon.ico)](https://www.madridtransporte.com "MadridTransporte")
 
