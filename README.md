@@ -2,7 +2,7 @@
 MadridTransporte es una app que te permite ver/notificar los tiempos de las paradas y abonos
 
 ## Instalacion
-No necesitas instalar nada, solo tienes que ir a [madridtransporte.com](https://madridtransporte.com)
+No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://madridtransporte.com)
 
 > [!IMPORTANT]\
 > Aunque si estas en movil, puedes instalarla como una app nativa, simplemente dandole al boton de añadir a pantalla de inicio.
