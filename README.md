@@ -21,7 +21,7 @@ MadridTransporte es una app que te permite ver los tiempos de las paradas de EMT
 No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://madridtransporte.com)
 
 > [!IMPORTANT]\
-> Aunque si estas en movil, puedes instalarla como una app nativa, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
+> Aunque si estas en movil, puedes instalarla como una app, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
 > Esto te permitira cargar la app mas rapido y tenerla en tu pantalla de inicio.
 
 ## Ventajas
