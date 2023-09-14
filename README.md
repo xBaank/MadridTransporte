@@ -23,6 +23,13 @@ No necesitas instalar nada, solo tienes que ir a [madridtransporte.com](https://
 
 # FAQ
 
+- [¿Como puedo ver los tiempos?](#¿Como-puedo-ver-los-tiempos?)
+- [¿Como puedo guardar la parada en favoritos?](#¿Como-puedo-guardar-la-parada-en-favoritos?)
+- [¿Como puedo recibir notificaciones con los tiempos?](#¿Como-puedo-recibir-notificaciones-con-los-tiempos?)
+- [¿Como puedo buscar una parada en el mapa?](#¿Como-puedo-buscar-una-parada-en-el-mapa?)
+- [¿Como puedo ver la informacion de mi abono?](#¿Como-puedo-ver-la-informacion-de-mi-abono?)
+- [¿Como puedo saber si una hay alguna incidencia?](#¿Como-puedo-saber-si-una-hay-alguna-incidencia?)
+
 ## ¿Como puedo ver los tiempos?
 Simplemente introduce el nombre de la parada o su correspondiente codigo en el buscador.
 
@@ -46,7 +53,7 @@ Para recibir notificaciones de una linea en una parada solo tienes que ir a la p
 
 ![Notificacion](./.assets/notificacion.png)
 
-Cada minuto recibiras una notificacion con los tiempos de la linea que has seleccionado.
+Cada minuto recibiras una notificacion con los tiempos de la linea que has seleccionado (Si se pueden obtener los tiempos).
 
 ![Notificacion](./.assets/notificacion2.png)
 
