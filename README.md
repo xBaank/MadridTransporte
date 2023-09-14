@@ -17,8 +17,8 @@ No necesitas instalar nada, solo tienes que ir a [madridtransporte.com](madridtr
 - Recibir notificaciones con los tiempos de las lineas que quieras
 
 ## Permisos
-- **Ubicacion**: Para poder mostrar las paradas cercanas a ti.
-- **Notificaciones**: Para poder enviarte notificaciones con los tiempos de las lineas que quieras.
+- `Ubicacion`: Para poder mostrar las paradas cercanas a ti.
+- `Notificaciones`: Para poder enviarte notificaciones con los tiempos de las lineas que quieras.
 
 
 # FAQ
