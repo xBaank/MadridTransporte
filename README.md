@@ -2,7 +2,7 @@
 
 [![Visitar Sitio - MadridTransporte](https://img.shields.io/badge/Visitar_Sitio-MadridTransporte-1E90FF?style=for-the-badge)](https://www.madridtransporte.com)
 
-MadridTransporte es una app que te permite ver/notificar los tiempos de las paradas y abonos
+MadridTransporte es una app que te permite ver los tiempos de las paradas y abonos
 
 ## Instalacion
 No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://madridtransporte.com)
