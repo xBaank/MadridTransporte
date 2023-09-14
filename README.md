@@ -1,7 +1,7 @@
-# MadridTransporte 
-
-
 <div align="center">
+
+# MadridTransporte
+
 
 [![Sample screenshot](https://www.madridtransporte.com/favicon.ico)](https://www.madridtransporte.com "MadridTransporte")
 
@@ -15,7 +15,7 @@ MadridTransporte es una app que te permite ver los tiempos de las paradas de EMT
 No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://madridtransporte.com)
 
 > [!IMPORTANT]\
-> Aunque si estas en movil, puedes instalarla como una app nativa, simplemente dandole al boton de añadir a pantalla de inicio.
+> Aunque si estas en movil, puedes instalarla como una app nativa, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
 > Esto te permitira cargar la app mas rapido y tenerla en tu pantalla de inicio.
 
 ## Ventajas
@@ -30,9 +30,7 @@ No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://
 - `Ubicacion`: Para poder mostrar las paradas cercanas a ti.
 - `Notificaciones`: Para poder enviarte notificaciones con los tiempos de las lineas que quieras.
 
-
 # FAQ
-
 - [¿Como puedo ver los tiempos?](#Como-puedo-ver-los-tiempos)
 - [¿Como puedo guardar la parada en favoritos?](#Como-puedo-guardar-la-parada-en-favoritos)
 - [¿Como puedo recibir notificaciones con los tiempos?](#Como-puedo-recibir-notificaciones-con-los-tiempos)
