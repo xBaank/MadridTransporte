@@ -2,9 +2,6 @@
 
 # MadridTransporte
 
-> [!NOTE]\
-> Puedes leer mas sobre como funciona aqui: [¿Como funcionan los sistemas del transporte publico?]([https://web-xbaank.vercel.app/blog/Reversing-engineering-lol](https://web-xbaank.vercel.app/blog/How-public-transport-systems-work))
-
 [![xBaank - MadridTransporte](https://img.shields.io/static/v1?label=xBaank&message=MadridTransporte&color=blue&logo=github)](https://github.com/xBaank/MadridTransporte "Go to GitHub repo")
 [![stars - MadridTransporte](https://img.shields.io/github/stars/xBaank/MadridTransporte?style=social)](https://github.com/xBaank/MadridTransporte)
 [![forks - MadridTransporte](https://img.shields.io/github/forks/xBaank/MadridTransporte?style=social)](https://github.com/xBaank/MadridTransporte)
@@ -17,6 +14,9 @@
 [![Visitar Sitio - MadridTransporte](https://img.shields.io/badge/Visitar_Sitio-MadridTransporte-1E90FF?style=for-the-badge)](https://www.madridtransporte.com)
 
 </div>
+
+> [!NOTE]\
+> Puedes leer mas sobre como funciona aqui: [¿Como funcionan los sistemas del transporte publico?](https://web-xbaank.vercel.app/blog/How-public-transport-systems-work)
 
 MadridTransporte es una app que te permite ver los tiempos de las paradas de EMT Madrid, Metro de Madrid, Cercanias Renfe Madrid y Autobuses urbanos e interurbanos de la Comunidad de Madrid.
 
