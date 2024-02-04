@@ -25,7 +25,10 @@ No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://
 
 > [!IMPORTANT]\
 > Aunque si estas en movil, puedes instalarla como una app, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
+> 
 > Esto te permitira cargar la app mas rapido y tenerla en tu pantalla de inicio.
+> 
+> Tambien puedes descargar el apk desde [Aqui](https://github.com/xBaank/MadridTransporte-front/releases)
 
 ## Ventajas
 - No necesitas instalar nada
