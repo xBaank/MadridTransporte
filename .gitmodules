@@ -1,6 +1,6 @@
-[submodule "bus-tracker-back"]
-	path = bus-tracker-back
-	url = https://github.com/xBaank/bus-tracker-back.git
-[submodule "bus-tracker-front"]
-	path = bus-tracker-front
-	url = https://github.com/xBaank/bus-tracker-front.git
+[submodule "MadridTransporte-back"]
+	path = MadridTransporte-back
+	url = https://github.com/xBaank/MadridTransporte-back.git
+[submodule "MadridTransporte-front"]
+	path = MadridTransporte-front
+	url = https://github.com/xBaank/MadridTransporte-front.git
