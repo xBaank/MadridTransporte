@@ -89,12 +89,6 @@ Para buscar una parada en el mapa solo tienes que darle al boton de mapa.
 
 <img src="./.assets/mapa.png" alt="drawing" width="300"/>
 
-## ¿Como puedo ver la informacion de mi abono?
-
-Para ver la informacion de tu abono solo tienes que darle al boton de abono.
-
-<img src="./.assets/abono.png" alt="drawing" width="300"/>
-
 ## ¿Como puedo saber si una hay alguna incidencia?
 
 Para ver si hay incidencias, solo tienes que ir a la parada que vayas a usar y (si hay incidencias) te aparecera un boton de avisos.
