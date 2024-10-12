@@ -19,7 +19,7 @@
 > Esta App es algo que el CRTM debería hacer pero son demasiado incompententes 🤡.
 > De hecho son tan incompetentes que el servicio que provee la informacion se cae frequentemente, es aprovechado por empresas con animo de lucro, no se actualiza desde 2016, etc.
 > 
-> Puedes leer mas sobre como funciona aqui: [¿Como funcionan los sistemas del transporte publico?](https://web-xbaank.vercel.app/blog/How-public-transport-systems-work)
+> Puedes leer mas sobre como funciona aqui: [¿Como funcionan los sistemas del transporte publico?](https://xbaank.github.io/blog/how-public-transport-system-work.html)
 
 MadridTransporte es una app que te permite ver los tiempos de las paradas de EMT Madrid, Metro de Madrid, Cercanias Renfe Madrid y Autobuses urbanos e interurbanos de la Comunidad de Madrid.
 
