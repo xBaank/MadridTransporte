@@ -15,9 +15,11 @@
 
 </div>
 
+> [!WARNING]\
+> El servicio que provee la informacion se cae frequentemente, es aprovechado por empresas con animo de lucro, no se actualiza desde 2016, etc.
+
 > [!NOTE]\
-> Esta App es algo que el CRTM debería hacer pero son demasiado incompententes 🤡.
-> De hecho son tan incompetentes que el servicio que provee la informacion se cae frequentemente, es aprovechado por empresas con animo de lucro, no se actualiza desde 2016, etc.
+> Si crees que hay algun error que se pueda solucionar no dudes en crear una [Propuesta](https://github.com/xBaank/MadridTransporte/issues/new/choose)
 > 
 > Puedes leer mas sobre como funciona aqui: [¿Como funcionan los sistemas del transporte publico?](https://xbaank.github.io/blog/how-public-transport-system-work.html)
 
@@ -27,7 +29,7 @@ MadridTransporte es una app que te permite ver los tiempos de las paradas de EMT
 No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://madridtransporte.com)
 
 > [!IMPORTANT]\
-> Aunque si estas en movil, puedes instalarla como una app, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
+> Si estas en movil, puedes instalarla como una app, simplemente dandole al boton de añadir a pantalla de inicio en cualquier navegador.
 > 
 > Esto te permitira cargar la app mas rapido y tenerla en tu pantalla de inicio.
 > 
