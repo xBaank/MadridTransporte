@@ -41,20 +41,16 @@ No necesitas instalar nada, solo tienes que ir a [MadridTransporte.com](https://
 - Es completamente **open source**
 - Totalmente multiplataforma (solo necesitas un navegador)
 - Ver la hora de llegada de los autobuses en vez de el tiempo restante
-- Recibir notificaciones con los tiempos de las lineas que quieras
 - Ver las locaclizaciones de los autobuses
 
 ## Permisos
 - `Ubicacion`: Para poder mostrar las paradas cercanas.
-- `Notificaciones`: Para poder enviarte notificaciones con los tiempos de las lineas.
 
 # FAQ
 - [¿Como puedo ver los tiempos?](#Como-puedo-ver-los-tiempos)
 - [¿Como puedo ver las localizaciones?](#Como-puedo-ver-las-localizaciones)
 - [¿Como puedo guardar la parada en favoritos?](#Como-puedo-guardar-la-parada-en-favoritos)
-- [¿Como puedo recibir notificaciones con los tiempos?](#Como-puedo-recibir-notificaciones-con-los-tiempos)
 - [¿Como puedo buscar una parada en el mapa?](#Como-puedo-buscar-una-parada-en-el-mapa)
-- [¿Como puedo ver la informacion de mi abono?](#Como-puedo-ver-la-informacion-de-mi-abono)
 - [¿Como puedo saber si una hay alguna incidencia?](#Como-puedo-saber-si-una-hay-alguna-incidencia)
 
 ## ¿Como puedo ver los tiempos?
@@ -77,16 +73,6 @@ Dale al boton de localizacion de la linea que deseas.
 Dale al corazon y ponle un nombre.
 
 <img src="./.assets/favoritos.png" alt="drawing" width="300"/>
-
-
-## ¿Como puedo recibir notificaciones con los tiempos?
-
-Para recibir notificaciones de una linea en una parada solo tienes que ir a la parada y darle al boton de notificaciones.
-Cada minuto recibiras una notificacion con los tiempos de la linea que has seleccionado (Si se pueden obtener los tiempos).
-
-Puedes cancelar las notificaciones en cualquier momento dandole al boton de otra vez desde la parada o la pagina principal.
-
-<img src="./.assets/notificaciones.png" alt="drawing" width="300"/>
 
 ## ¿Como puedo buscar una parada en el mapa?
 
